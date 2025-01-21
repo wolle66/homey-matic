@@ -155,6 +155,8 @@ The app uses discovery to find your CCUs on the network. We were only able to te
 * HmIP-eTRV-B
 * HmIP-eTRV-C
 
+* NEW: HmIP-eTRV-2 R4M
+
 # Credits
 
 Thank you [@hobbyquaker](https://github.com/hobbyquaker) for your great work on binrpc, xmlrpc, hm-discover and RedMatic.
