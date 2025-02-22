@@ -156,6 +156,8 @@ The app uses discovery to find your CCUs on the network. We were only able to te
 * HmIP-eTRV-C
 
 * NEW: HmIP-eTRV-2 R4M
+* NEW: HmIP-BROLL-2 
+
 
 # Credits
 
